@@ -2,16 +2,16 @@
       {
         "id":1,
         "title":"one",
-        "checkpoint":false
+        "checkpoint":False
       },
       {
         "id":2,
         "title":"two",
-        "checkpoint":false
+        "checkpoint":False
       },
       {
         "id":3,
         "title":"three",
-        "checkpoint":false
+        "checkpoint":False
       }
 ]
